@@ -6,35 +6,27 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Feb 2018 13:57:53 +0800</pubDate>
-    <lastBuildDate>Mon, 26 Feb 2018 13:57:53 +0800</lastBuildDate>
+    <pubDate>Mon, 26 Feb 2018 15:50:17 +0800</pubDate>
+    <lastBuildDate>Mon, 26 Feb 2018 15:50:17 +0800</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>写在开篇</title>
+        <description>&lt;p&gt;近日以来，总有一种强烈的愿望，希望不日能出版一部书。但是，且不说梦想是否能成真，其实书的内容也不能确定。&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;逐渐感觉，日常中碎片化的交流、阅读以及表达方式，影响了我的思维习惯：我变得越来越迫切，阅读的时候希望能得到有益的人生启迪，写作的时候希望每一句话都能精巧而富有意味。我厌恶那样的表达方式，它让我的思考浅薄而没有力量。在某些场合下，当我为另一个人的思维表示赞叹的时候，我总在想：他所想所表达的东西，完全不会让我感到陌生和难以理解，似乎也曾经植根在我的头脑里，但我却未能如此畅快淋漓的表达出来，彼时彼刻，不禁羞愧难当。&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;今日又看过一次《返老还童》，我对电影中的对白，其实无一印象。但却倏忽间想到了衰老和死亡。午间听到走廊里年轻学生的谈笑声，我迫切的走到他们身旁，仰起头，像是欣赏图画一样，欣赏他们充满朝气的面庞。猛然间，我想，既然时间于我是单向的，我的年轻的容颜和躯体，每一日都在走向衰老，唯有文字和思想可以常新。&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;是的，唯有文字和思考可以常新。&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 26 Feb 2018 13:16:00 +0800</pubDate>
-        <link>http://localhost:4000/jekyll/update/2018/02/26/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2018/02/26/welcome-to-jekyll.html</guid>
+        <pubDate>Mon, 26 Feb 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/%E6%9D%82%E9%9B%86/2018/02/26/start.html</link>
+        <guid isPermaLink="true">http://localhost:4000/%E6%9D%82%E9%9B%86/2018/02/26/start.html</guid>
         
         
-        <category>jekyll</category>
-        
-        <category>update</category>
+        <category>杂集</category>
         
       </item>
     
